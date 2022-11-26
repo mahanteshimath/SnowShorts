@@ -1,4 +1,4 @@
-
+----
 SET emailAddress = 'learnatozaboutdata@gmail.com';
 
     CREATE OR REPLACE NOTIFICATION INTEGRATION 
